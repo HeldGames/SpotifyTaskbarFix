@@ -14,6 +14,7 @@ SetControlDelay, -1
 SendMode Input
 ;OPTIMIZATIONS END
 
+#NoTrayIcon
 DetectHiddenWindows, On
 SetTitleMatchMode, 2
 
