@@ -7,8 +7,8 @@ Only tested to work with Windows 10
 
 
 ### Getting it to work:
-Download my script
+1. Download my script
 
-Move the AHK script into "C:\Users\%username%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup"
+2. Move the AHK script into "C:\Users\\%username%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup"
 
-Next time you boot your pc the script will run and fix spotify
+3. Next time you boot your pc the script will run and fix spotify
