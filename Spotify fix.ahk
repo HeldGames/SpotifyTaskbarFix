@@ -54,4 +54,5 @@ loop
 			{
 				Stop:=false
 			}
+		Sleep, 5000
 	}
